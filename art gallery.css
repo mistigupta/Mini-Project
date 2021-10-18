@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+body{
+    line-height: 0.5;
+    background-color: plum;
+    font-family: 'Pattaya', sans-serif;
+    background-image: url('./bg_artgallery.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+}
+
+a{
+    font-size: larger;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+  table {
+    font-family: 'Pattaya', sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    background-color: hotpink;
+  }
+  
+  td, th {
+    border: 1px solid #000000;
+    text-align: Center;
+    
+    
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  p{
+      font-size: larger;
+  }
+
+  
